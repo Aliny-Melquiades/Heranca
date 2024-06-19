@@ -1,1 +1,1 @@
-### Exercícios da Academia Java Atos para treinar Herança de Classe. ☕ 
+### Exercícios da Academia Java para treinar Herança de Classe. ☕ 
